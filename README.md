@@ -9,9 +9,9 @@ Features:
 * App List can start applications
 * Black background (night mode)
 
-![Main screen](screenshots/screenshot_launcher.jpg)
+![Main screen](screenshots/screenshot_launcher.jpg | width=350)
 
-![App List](screenshots/screenshot_app_list.jpg)
+![App List](screenshots/screenshot_app_list.jpg | | width=350)
 
 
 So far the differences:
