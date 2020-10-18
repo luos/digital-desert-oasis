@@ -9,6 +9,11 @@ Features:
 * App List can start applications
 * Black background (night mode)
 
+![Main screen](screenshots/screenshot_launcher.jpg)
+
+![App List](screenshots/screenshot_app_list.jpg)
+
+
 So far the differences:
 
 * Night mode (for Amoled Screens)
