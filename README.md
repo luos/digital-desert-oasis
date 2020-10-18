@@ -9,10 +9,10 @@ Features:
 * App List can start applications
 * Black background (night mode)
 
-![Main screen](screenshots/screenshot_launcher.jpg | width=350)
+<img alt="Main screen" src="screenshots/screenshot_launcher.jpg" width="350px">
 
-![App List](screenshots/screenshot_app_list.jpg | | width=350)
-
+<img alt="App list" src="screenshots/screenshot_app_list.jpg" width="350px">
+ 
 
 So far the differences:
 
